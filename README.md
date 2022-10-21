@@ -10,4 +10,5 @@ e podemos entender que esse filmes são os que podemos recomendar (hiposete)
 - Uma segunda maneira de fazer a recomendação é pela media das notas dos filmes, eu consigo usar a media nesse calculo quando os valores são mais ou menos de forma uniforme, sem grandes discrepancias 
 e aqui eu consigo observar que não necessariamente o mais popular em notas é o mais assitido pelos o usuarios 
 
-- Levanto a consideração da populariedade dos filmes,isso impacta diretamente nos resultados e no impacto dos filmes 
+- Levo em  consideração a populariedade dos filmes,isso impacta diretamente nos resultados e no impacto dos filmes como também a recomendação por genêro também é um caminho para recomendar mais filmes para o usuario trilhar
+
