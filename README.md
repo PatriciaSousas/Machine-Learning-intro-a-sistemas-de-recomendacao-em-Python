@@ -12,3 +12,5 @@ e aqui eu consigo observar que não necessariamente o mais popular em notas é o
 
 - Levo em  consideração a populariedade dos filmes,isso impacta diretamente nos resultados e no impacto dos filmes como também a recomendação por genêro também é um caminho para recomendar mais filmes para o usuario trilhar
 
+- Posso seguir um recomendação por genêro também, considerando apenas os filmes que um usuario assistiu sem a corroboração de outras informações, aqui eu tenho um ponto importante
+que é a recomendação por genero mais assististido conseguindo trilhar o que o usuario mais gosta 
