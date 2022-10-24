@@ -17,7 +17,7 @@ que é a recomendação por genero mais assististido conseguindo trilhar o que o
 
 - Uma outra maneira de recomendação seria por usuario, entendendo a pontuação que cada usuario deu em um determinado filme e e trazendo um comparativo por notas, exemplo: qual seria a diferença? é proxímo? será que Joao gostaria do mesmo filme que Maria recomendou?
 
-joao pontou X filme com 4.5
-Maria pontou X filme com 5 
+- joao pontou X filme com 4.5
+- Maria pontou X filme com 5 
 
 
