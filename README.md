@@ -14,3 +14,10 @@ e aqui eu consigo observar que não necessariamente o mais popular em notas é o
 
 - Posso seguir um recomendação por genêro também, considerando apenas os filmes que um usuario assistiu sem a corroboração de outras informações, aqui eu tenho um ponto importante
 que é a recomendação por genero mais assististido conseguindo trilhar o que o usuario mais gosta 
+
+- Uma outra maneira de recomendação seria por usuario, entendendo a pontuação que cada usuario deu em um determinado filme e e trazendo um comparativo por notas, exemplo: qual seria a diferença? é proxímo? será que Joao gostaria do mesmo filme que Maria recomendou?
+
+joao pontou X filme com 4.5
+Maria pontou X filme com 5 
+
+
